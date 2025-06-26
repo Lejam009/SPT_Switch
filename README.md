@@ -1,10 +1,10 @@
 # SPT_Switch
 A simple tool for SPT FIKA that allows you to switch between online and offline automatically
 
-#Installation
+# Installation
 Simply download and extract the zip file
 
-#Run
+# Run
 Double click the shortcut or the .bat file
 
 #Preview
